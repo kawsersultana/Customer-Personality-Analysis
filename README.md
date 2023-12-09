@@ -1,2 +1,4 @@
 A company's ideal consumers are thoroughly studied through customer personality analysis, which aims to improve knowledge and customize goods to match the unique requirements, habits, and concerns of various client groups. Focusing on the most responsive and pertinent audience enables organizations to maximize their marketing efforts and resources.
 I have attempted to do a thorough study of the customer personality data in this project. In order to do that, I have made an effort to analyze each incident separately, as well as to visualize and analyze how they relate to one another. Finally, I have used machine learning models for training and testing, and also XAI techniques like Shap and Lime to evaluate the findings.
+
+Here is the dataset link : https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?fbclid=IwAR2qgPrAfuuvyuqfHsLyO3h-aCHKpSK1vqVkMeqy5RaSLe9iIAqlPeTiamY
